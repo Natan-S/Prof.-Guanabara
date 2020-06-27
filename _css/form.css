@@ -1,0 +1,22 @@
+div#interface {
+    height: 1150px;
+}
+
+div#form p{
+    margin-top: 350px;
+    text-align: justify;
+}
+
+article#noticia_principal {
+    margin-top: 150px;
+}
+
+footer#Rodape {
+    margin-top: 600px;
+    display: block;
+    float: inline-end;
+}
+
+footer#Rodape p {
+text-align: center;
+}
